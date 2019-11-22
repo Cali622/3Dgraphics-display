@@ -1,1 +1,1 @@
-# 3Dgraphics-display
+# 3D Graphics Display
